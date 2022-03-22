@@ -7,6 +7,8 @@
 # Keep It Simple Stupid.
 
 ```
+![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
+ 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="Arch Linux™">
