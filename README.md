@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
 <p align="center">
   Casual Linux Enjoyer, <b>I use Arch btw.</b>
+  Geospatial Data Scientist.
 </p>
 
 ```
