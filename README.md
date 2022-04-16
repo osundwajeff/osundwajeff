@@ -1,8 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
 
-# Geospatial Data Scientist.
+I am a GIS student at [JKUAT](https://www.jkuat.ac.ke/). My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing and environmental modelling. I am interested in software systems, geopspatial big data and machine learning as ways to study, model and solve various spatial problems we face.
+
+## Skills
+- ** Geospatial Information Systems
+- ** Remote Sensing
+- ** Web Mapping
+- ** Spatial Data Science
+- ** Spatial Database design and development
  
-## Casual Linux Enthusiast.
+## 
 
 ```
 
