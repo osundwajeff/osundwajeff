@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
 
-<p align="left"> <strong> Geospatial Data Scientist. <strong/> </p>
-<p align="left"> <strong> Casual Linux Enthusiast. <strong/> </p>
+Geospatial Data Scientist.
+ 
+Casual Linux Enthusiast.
 
 ```
 
