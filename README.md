@@ -4,15 +4,14 @@ My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing
 
 ## Skills
 - **Geospatial Information Systems**
-- **Remote Sensing**
 - **Web Mapping**
 - **Spatial Data Science**
-- **Spatial Database design and development**
- 
+- **Software Engineering**
 ## 
 
 ```
-
+# Casual Linux Enthusiast
+# Open Source Advocate
 # Keep It Simple.
 
 ```
