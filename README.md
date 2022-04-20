@@ -27,5 +27,7 @@ My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQlite">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" title="bash">
 </p>
+<a href="https://github.com/osundwajeff/github-stats">
 ![](https://github.com/osundwajeff/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/osundwajeff/github-stats/blob/master/generated/languages.svg)
+<a/>
