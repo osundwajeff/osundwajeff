@@ -30,7 +30,7 @@ I'm a Geospatial engineer. I am interested in software systems, geopspatial big 
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" title="bash">
 </p>
 
-#Stats
+# Stats
 <a href="https://github.com/osundwajeff/github-stats">
 
 ![](https://github.com/osundwajeff/github-stats/blob/master/generated/overview.svg)
