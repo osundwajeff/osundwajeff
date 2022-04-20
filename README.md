@@ -16,7 +16,8 @@ I'm a Geospatial engineer. I am interested in software systems, geopspatial big 
 # Keep It Simple.
 
 ```
- 
+
+## Languages 
 <p align="center">
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" title="vim">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="python">
@@ -29,6 +30,7 @@ I'm a Geospatial engineer. I am interested in software systems, geopspatial big 
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" title="bash">
 </p>
 
+#Stats
 <a href="https://github.com/osundwajeff/github-stats">
 
 ![](https://github.com/osundwajeff/github-stats/blob/master/generated/overview.svg)
