@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
 
-My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing and environmental modelling. I am interested in software systems, geopspatial big data and machine learning as ways to study, model and solve various spatial problems we face.
+Geospatial engineer
+My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing and Environmental modelling. I am interested in software systems, geopspatial big data and machine learning as ways to study, model and solve various spatial problems we face.
 
 ## Skills
 - **Geospatial Information Systems**
@@ -33,3 +34,9 @@ My areas of expertise are in Geospatial Information Systems(GIS), Remote Sensing
     <td><img src="https://github.com/osundwajeff/github-stats/blob/master/generated/languages.svg"/></td>
   </tr>
 </table>
+<a href="https://github.com/osundwajeff/github-stats">
+
+![](https://github.com/osundwajeff/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/osundwajeff/github-stats/blob/master/generated/languages.svg)
+
+</a>
