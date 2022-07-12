@@ -17,7 +17,7 @@ I'm a Geospatial engineer. I am interested in software systems, geopspatial big 
 
 ```
 
-## Languages 
+## Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" title="vim">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="python">
