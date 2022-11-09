@@ -16,6 +16,16 @@ I'm a Geospatial engineer. I am interested in software systems, geopspatial big 
 # Keep It Simple.
 
 ```
+```mermaid
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+    
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
 
 ## Stack 
 <p align="center">
