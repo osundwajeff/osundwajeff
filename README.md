@@ -1,17 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=osundwajeff&label=ProfileViewers&color=brightgreen)
 
-I'm a Geospatial engineer. I am interested in software systems, geospatial big data and machine learning as ways to study, model and solve spatial problems.
+I'm a Geospatial engineer. I am interested in software development, geospatial big data and machine learning as ways to study, model and solve spatial problems.
 
 ## Skills
-- **Geospatial Information Systems**
-- **Remote Sensing**
-- **Web Mapping**
+- **Geospatial Science**
 - **Spatial Data Science**
 - **Software Engineering**
 ## 
 
 ```
-# Casual Linux Enthusiast
+# Casual Linux User
 # Open Source Advocate
 # Keep It Simple.
 
